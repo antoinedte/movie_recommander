@@ -1,0 +1,13 @@
+streamlit
+pandas
+scikit-learn
+numpy
+matplotlib
+kagglehub
+os-sys
+plotly
+seaborn
+missingno
+geopandas
+shapely
+sentence-transformers
